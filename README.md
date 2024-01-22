@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @lyupatov;
 - 👀 I’m interested in coding;
 - 🌱 I’m currently learning TypeScript;
-- 💞️ I’m looking to collaborate on <null>;
-- 📫 How to reach me <null>;
-- 😄 Pronouns: <null>;
-- ⚡ Fun fact: <null>;
+- 💞️ I’m looking to collaborate on null;
+- 📫 How to reach me null;
+- 😄 Pronouns: null;
+- ⚡ Fun fact: null;
 ------------------------------------------
